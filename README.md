@@ -15,3 +15,4 @@ Colaboradora: StheEstuda (meu perfil secundário no GitHub).
 2. Colaboração:
    - Adicionar um colaborador ao repositório (podendo ser um colega ou uma conta diferente). [ ✅ ]
    - Ambos devem fazer um clone do repositório em suas máquinas locais. [ ✅ ]
+   - Ambos devem fazer alterações e commits. [ ✅ ]
